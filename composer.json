@@ -4,7 +4,8 @@
     "description": "Image Compression",
     "keywords": ["compress","webstackstudio","webstackstudio.com","","compress image","image","minify"],
     "homepage": "https://webstackstudio.com",
-    "license": "MIT",
+    "license": "MIT",    
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
         "ext-pcre": "*"
