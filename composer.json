@@ -1,0 +1,20 @@
+{
+    "name": "renj1e/php-image-compress",
+    "type": "library",
+    "description": "Image Compression",
+    "keywords": ["compress","webstackstudio","webstackstudio.com","","compress image","image","minify"],
+    "homepage": "https://webstackstudio.com",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-pcre": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "renj1e\\phpImgCompress\\": "src/"
+        }
+    },
+    "bin": [
+        "bin/compress"
+    ]
+}
