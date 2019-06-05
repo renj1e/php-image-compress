@@ -16,7 +16,7 @@
             "renj1e\\phpImgCompress\\": "src/"
         }
     },
-    "bin": {
+    "bin": [
         "bin/compress"
-    }
+    ]
 }
