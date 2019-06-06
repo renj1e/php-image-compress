@@ -15,8 +15,5 @@
         "psr-4": {
             "renj1e\\phpImgCompress\\": "src/"
         }
-    },
-    "bin": [
-        "bin/compress"
-    ]
+    }
 }
